@@ -1,0 +1,6 @@
+google-cloud-texttospeech
+google-cloud-storage
+google-auth
+requests
+Flask
+gunicorn

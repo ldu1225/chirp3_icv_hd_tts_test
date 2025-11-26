@@ -1,0 +1,12 @@
+# Local environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive files
+voice_key.txt
+consent.wav
+reference.wav
+
+# Generated media files
+static/*.wav
