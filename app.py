@@ -8,8 +8,8 @@ from google.cloud import texttospeech, storage
 from flask import Flask, render_template, request, url_for
 
 # --- Configuration ---
-PROJECT_ID = "duleetest"
-BUCKET_NAME = f"{PROJECT_ID}-chirp3-demo-assets"
+PROJECT_ID = "xxx"
+BUCKET_NAME = f"{PROJECT_ID}-xxx"
 VOICE_KEY_FILE = "voice_key.txt"
 CONSENT_SCRIPT = "I am the owner of this voice and I consent to Google using this voice to create a synthetic voice model."
 
